@@ -1,0 +1,6 @@
+language: scala
+jdk:
+- oraclejdk8
+- oraclejdk10
+script:
+- sbt run
